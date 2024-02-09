@@ -21,7 +21,4 @@ The system employs file input/output operations to efficiently manage invoices. 
 
 Variable names have been carefully selected to enhance code clarity and adhere to naming conventions. Distinct structures, such as MenuItem and Order, streamline the representation of menu items and customer orders. Functions like printInvoiceHeader, printInvoiceItem, and printInvoiceFooter encapsulate specific responsibilities, contributing to modular and maintainable code.
 
-Conclusion
-The Restaurant Invoice Management System is more than just a codebase; it represents a tailored solution for restaurants seeking a reliable tool to manage their invoicing processes. Its amalgamation of functionality and user experience showcases the potential of structured programming in addressing real-world challenges. Open to contributions, the system encourages collaboration, fostering an environment for continual improvement.
 
-In conclusion, this system stands as a testament to the power of thoughtful design in creating efficient and user-friendly applications, ensuring that restaurant operations can thrive in an increasingly dynamic industry.
